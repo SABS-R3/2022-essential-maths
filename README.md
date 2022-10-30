@@ -16,6 +16,12 @@ Click the "launch binder" blue badge above to open a Jupyter session in your bro
 - Select the lecture slides you want to view
 - Click `Run` -> `Run All Cells`
 
+To view as a slideshow, instead:
+
+- Click `Help` -> `Launch Classic Notebook`
+- Click `Cell` -> `Run All`
+- Press the button that looks like a bar chart to Enter/Exit RISE Slideshow
+
 ## Problem sheets
 
 There are static PDF files, one for each half-day of the course, in the `problems` directory.
