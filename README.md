@@ -15,7 +15,6 @@ Click the "launch binder" blue badge above to open a Jupyter session in your bro
 - Navigate to the `lectures` directory
 - Select the lecture slides you want to view
 - Click `Run` -> `Run All Cells`
-- Click the RISE button that looks like a bar chart
 
 ## Problem sheets
 
